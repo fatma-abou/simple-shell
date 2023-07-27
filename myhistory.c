@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
-* _getline - get line.
+* myhistory - get line.
 * @data: program's data.
 *
 * Return: count bytes.

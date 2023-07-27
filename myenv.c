@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * extend_var - extend variables.
+ * _myenv - extend variables.
  *
  * @data: program's data pointer.
  * Return: nothing.

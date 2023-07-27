@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * main: Initialize program variables.
+ * main - Initialize program variables.
  * @argc: Command line input count.
  * @argv: Command line input values
  * @env: Command line input count.
